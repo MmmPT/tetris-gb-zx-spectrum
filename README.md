@@ -8,9 +8,9 @@ An unofficial native Z80 recreation of Game Boy Tetris for the **ZX Spectrum 128
 
 ## Game page
 
-The dedicated page includes browser play through JSSpeccy 3, touch controls, the gameplay video and direct downloads. Its source is `index.html`, `site.css` and `site.js`.
+### [Play Tetris GB in your browser ↗](https://mmmpt.github.io/tetris-gb-zx-spectrum/)
 
-To publish it with GitHub Pages, select **Settings → Pages → Deploy from a branch → main → / (root)**. No build step is required.
+Play online with keyboard or touch controls, watch the gameplay video, or download the game from the dedicated page.
 
 ## Download and play
 
