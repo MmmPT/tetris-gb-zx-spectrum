@@ -6,6 +6,12 @@ An unofficial native Z80 recreation of Game Boy Tetris for the **ZX Spectrum 128
 
 ![Tetris GB loading screen](media/loading.png)
 
+## Game page
+
+The dedicated page includes browser play through JSSpeccy 3, touch controls, the gameplay video and direct downloads. Its source is `index.html`, `site.css` and `site.js`.
+
+To publish it with GitHub Pages, select **Settings → Pages → Deploy from a branch → main → / (root)**. No build step is required.
+
 ## Download and play
 
 - [Tetris_GB.tap](dist/Tetris_GB.tap): tape image with a dedicated loading screen.
