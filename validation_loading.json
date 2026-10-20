@@ -1,0 +1,7 @@
+{
+  "screen_bytes": 6912,
+  "valid_tape_checksums": true,
+  "loading_screen_embedded_at_16384": true,
+  "fresh_ROM_load_preserves_loading_image_until_entry": true,
+  "menu_opens_after_loading": true
+}

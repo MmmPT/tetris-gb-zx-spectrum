@@ -1,0 +1,394 @@
+[
+  {
+    "song": "6F6B",
+    "offsets": [
+      0,
+      294,
+      681,
+      1230
+    ],
+    "voices": [
+      {
+        "notes": 97,
+        "frames": 1929
+      },
+      {
+        "notes": 128,
+        "frames": 1929
+      },
+      {
+        "notes": 182,
+        "frames": 1929
+      },
+      {
+        "notes": 17,
+        "frames": 161
+      }
+    ],
+    "loop": 1
+  },
+  {
+    "song": "6F76",
+    "offsets": [
+      1266,
+      1752,
+      2157,
+      2829
+    ],
+    "voices": [
+      {
+        "notes": 161,
+        "frames": 1768
+      },
+      {
+        "notes": 134,
+        "frames": 1768
+      },
+      {
+        "notes": 223,
+        "frames": 1949
+      },
+      {
+        "notes": 5,
+        "frames": 40
+      }
+    ],
+    "loop": 1
+  },
+  {
+    "song": "6F81",
+    "offsets": [
+      2841,
+      3342,
+      3705,
+      3711
+    ],
+    "voices": [
+      {
+        "notes": 166,
+        "frames": 1929
+      },
+      {
+        "notes": 120,
+        "frames": 1929
+      },
+      {
+        "notes": 1,
+        "frames": 213
+      },
+      {
+        "notes": 1,
+        "frames": 213
+      }
+    ],
+    "loop": 1
+  },
+  {
+    "song": "6F55",
+    "offsets": [
+      3715,
+      4090,
+      4435,
+      4996
+    ],
+    "voices": [
+      {
+        "notes": 124,
+        "frames": 1929
+      },
+      {
+        "notes": 114,
+        "frames": 1929
+      },
+      {
+        "notes": 186,
+        "frames": 1929
+      },
+      {
+        "notes": 144,
+        "frames": 1929
+      }
+    ],
+    "loop": 1
+  },
+  {
+    "song": "6F60",
+    "offsets": [
+      5286,
+      5316,
+      5346,
+      3711
+    ],
+    "voices": [
+      {
+        "notes": 9,
+        "frames": 80
+      },
+      {
+        "notes": 9,
+        "frames": 80
+      },
+      {
+        "notes": 10,
+        "frames": 80
+      },
+      {
+        "notes": 1,
+        "frames": 213
+      }
+    ],
+    "loop": 0
+  },
+  {
+    "song": "6F4A",
+    "offsets": [
+      5379,
+      5400,
+      5421,
+      5445
+    ],
+    "voices": [
+      {
+        "notes": 6,
+        "frames": 84
+      },
+      {
+        "notes": 6,
+        "frames": 84
+      },
+      {
+        "notes": 7,
+        "frames": 84
+      },
+      {
+        "notes": 14,
+        "frames": 87
+      }
+    ],
+    "loop": 0
+  },
+  {
+    "song": "6F3F",
+    "offsets": [
+      5475,
+      5688,
+      5694,
+      6066
+    ],
+    "voices": [
+      {
+        "notes": 70,
+        "frames": 1366
+      },
+      {
+        "notes": 1,
+        "frames": 13
+      },
+      {
+        "notes": 123,
+        "frames": 1366
+      },
+      {
+        "notes": 21,
+        "frames": 402
+      }
+    ],
+    "loop": 1
+  },
+  {
+    "song": "6FA2",
+    "offsets": [
+      6110,
+      3705,
+      3705,
+      3711
+    ],
+    "voices": [
+      {
+        "notes": 20,
+        "frames": 201
+      },
+      {
+        "notes": 1,
+        "frames": 213
+      },
+      {
+        "notes": 1,
+        "frames": 213
+      },
+      {
+        "notes": 1,
+        "frames": 213
+      }
+    ],
+    "loop": 0
+  },
+  {
+    "song": "6FAD",
+    "offsets": [
+      6173,
+      3705,
+      6230,
+      3711
+    ],
+    "voices": [
+      {
+        "notes": 18,
+        "frames": 201
+      },
+      {
+        "notes": 1,
+        "frames": 213
+      },
+      {
+        "notes": 21,
+        "frames": 241
+      },
+      {
+        "notes": 1,
+        "frames": 213
+      }
+    ],
+    "loop": 0
+  },
+  {
+    "song": "6FB8",
+    "offsets": [
+      6173,
+      6296,
+      6347,
+      3711
+    ],
+    "voices": [
+      {
+        "notes": 18,
+        "frames": 201
+      },
+      {
+        "notes": 16,
+        "frames": 241
+      },
+      {
+        "notes": 23,
+        "frames": 241
+      },
+      {
+        "notes": 1,
+        "frames": 213
+      }
+    ],
+    "loop": 0
+  },
+  {
+    "song": "6FC3",
+    "offsets": [
+      6296,
+      6173,
+      6419,
+      6506
+    ],
+    "voices": [
+      {
+        "notes": 16,
+        "frames": 241
+      },
+      {
+        "notes": 18,
+        "frames": 201
+      },
+      {
+        "notes": 28,
+        "frames": 241
+      },
+      {
+        "notes": 17,
+        "frames": 241
+      }
+    ],
+    "loop": 0
+  },
+  {
+    "song": "6FCE",
+    "offsets": [
+      6542,
+      6626,
+      6749,
+      6833
+    ],
+    "voices": [
+      {
+        "notes": 27,
+        "frames": 321
+      },
+      {
+        "notes": 40,
+        "frames": 321
+      },
+      {
+        "notes": 27,
+        "frames": 321
+      },
+      {
+        "notes": 28,
+        "frames": 321
+      }
+    ],
+    "loop": 0
+  },
+  {
+    "song": "6FD9",
+    "offsets": [
+      6891,
+      7158,
+      7410,
+      7677
+    ],
+    "voices": [
+      {
+        "notes": 88,
+        "frames": 643
+      },
+      {
+        "notes": 83,
+        "frames": 643
+      },
+      {
+        "notes": 88,
+        "frames": 643
+      },
+      {
+        "notes": 56,
+        "frames": 643
+      }
+    ],
+    "loop": 0
+  },
+  {
+    "song": "6FE4",
+    "offsets": [
+      3705,
+      7791,
+      7869,
+      3711
+    ],
+    "voices": [
+      {
+        "notes": 1,
+        "frames": 213
+      },
+      {
+        "notes": 25,
+        "frames": 382
+      },
+      {
+        "notes": 6,
+        "frames": 362
+      },
+      {
+        "notes": 1,
+        "frames": 213
+      }
+    ],
+    "loop": 0
+  }
+]

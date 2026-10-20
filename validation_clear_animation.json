@@ -1,0 +1,9 @@
+{
+  "flash_changes_only_completed_row_attributes": true,
+  "flash_bitmap_unchanged": true,
+  "flash_cycles_max_four_rows": 8849,
+  "screen_copy_chunks": 216,
+  "visible_shadow_stable_during_compaction": 90,
+  "atomic_display_swap": true,
+  "paging_restored": true
+}

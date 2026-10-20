@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+demo_audio.wav
+demo_silent.mp4
+demo_frame_*.png
