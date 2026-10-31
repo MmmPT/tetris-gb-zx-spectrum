@@ -14,8 +14,8 @@ Play online with keyboard or touch controls, watch the gameplay video, or downlo
 
 ## Download and play
 
-- [Tetris_GB.tap](dist/Tetris_GB.tap): tape image with a dedicated loading screen.
-- [Tetris_GB.z80](dist/Tetris_GB.z80): snapshot for immediate play.
+- [Tetris_GB.tap](https://github.com/MmmPT/tetris-gb-zx-spectrum/releases/download/downloads-2026-10-31/Tetris_GB.tap): tape image with a dedicated loading screen.
+- [Tetris_GB.z80](https://github.com/MmmPT/tetris-gb-zx-spectrum/releases/download/downloads-2026-10-31/Tetris_GB.z80): snapshot for immediate play.
 - [Gameplay video with AY sound](media/Tetris_GB_gameplay.mp4).
 
 Select a **Spectrum 128K** machine in your emulator. Select Kempston if using a joystick. On a 128K Spectrum, the tape can be loaded from 48 BASIC using `LOAD ""`; AY audio remains available. This game requires 128K hardware.
@@ -117,3 +117,9 @@ The included 43-second video presents the loading image for three seconds, then 
 ## Development notes
 
 The published download filenames are `Tetris_GB.*`. Development included corrections to line clearing, next-piece positioning, coloured piece attributes and loading-screen lettering.
+
+## Download statistics
+
+[Download statistics](https://github.com/MmmPT/tetris-gb-zx-spectrum/releases/tag/downloads-2026-10-31) are recorded by GitHub for the release assets from **31 October 2026**. The game page shows the total across the downloadable formats. This counts file downloads, not unique players; earlier direct downloads, repository clones and browser play are not included.
+
+Release assets are retained to preserve their counters. For a future game update, publish a new release or use new asset filenames rather than replacing an existing asset, then update the download links.
